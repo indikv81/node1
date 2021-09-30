@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5483b1-615d-4390-8fb3-d99505c783e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Test1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Test1.js" afterDir="false" />
+    <list default="true" id="1e5483b1-615d-4390-8fb3-d99505c783e2" name="Default Changelist" comment="Первый коммит">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.9.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.9.1" />
@@ -54,12 +56,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633024943401</updated>
-      <workItem from="1633024944772" duration="1198000" />
+      <workItem from="1633024944772" duration="1500000" />
     </task>
+    <task id="LOCAL-00001" summary="Первый коммит">
+      <created>1633032834640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633032834640</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первый коммит" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="155" key="FileChooserDialogImpl" timestamp="1633032213335">
@@ -74,5 +88,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="590" y="118" key="Github.UntrackedFilesDialog/0.0.1536.824/3840.512.1920.1040@0.0.1536.824" timestamp="1633032512116" />
+    <state width="1515" height="195" key="GridCell.Tab.0.bottom" timestamp="1633032798993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.512.1920.1040@0.0.1536.824" timestamp="1633032798993" />
+    <state width="1515" height="195" key="GridCell.Tab.0.center" timestamp="1633032798992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="195" key="GridCell.Tab.0.center/0.0.1536.824/3840.512.1920.1040@0.0.1536.824" timestamp="1633032798992" />
+    <state width="1515" height="195" key="GridCell.Tab.0.left" timestamp="1633032798992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="195" key="GridCell.Tab.0.left/0.0.1536.824/3840.512.1920.1040@0.0.1536.824" timestamp="1633032798992" />
+    <state width="1515" height="195" key="GridCell.Tab.0.right" timestamp="1633032798992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="195" key="GridCell.Tab.0.right/0.0.1536.824/3840.512.1920.1040@0.0.1536.824" timestamp="1633032798992" />
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1633032857782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.512.1920.1040@0.0.1536.824" timestamp="1633032857782" />
+    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1633033025020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/3840.512.1920.1040@0.0.1536.824" timestamp="1633033025020" />
   </component>
 </project>
